@@ -168,7 +168,8 @@ Note: native language of each component is Fortran -->
 Note:
 - model run-time interaction
 - Data-services example
-- If your a modeler how much fun this is!
+- PRMS is Fortran and we're running it in Python!
+- If your a modeler - how much fun this is!
 
 ---
 
