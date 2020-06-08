@@ -87,8 +87,8 @@ In the meantime we've all become more aware of the EarthMAP initiative and I thi
     <td class="tg-0lax">
     <ul class="tg-0lax">
       <dl>
-        <dt> Component-models encapsulate a set of related functions into a reusable form.</dt>
-        <dd>- In OOP, a class bundles data and provide methods that operate on the data within a single unit or component </dd>
+        <dt> Component models encapsulate a set of related functions into a reusable form.</dt>
+        <dd>- In OOP, a class bundles data and provides methods that operate on the data within a single unit or component </dd>
         <dt> Components communicate with each other via interfaces</dt>
         <dt>An interface in this case is a set of common methods for example 
         </dt>
@@ -109,7 +109,7 @@ In the meantime we've all become more aware of the EarthMAP initiative and I thi
 
 ---
 
-|Example coupled snow and pemafrost temperature model| Visualization|
+|Example coupled snow and permafrost temperature model| Visualization|
 |:----:|:----:|
 |![width:700](./assets/example1.png)|![](assets/example1_outputpng.png)|
 
@@ -167,9 +167,9 @@ Note: native language of each component is Fortran -->
 # Quick Demonstration:
 Note:
 - model run-time interaction
-- Data-services example
+- Data services example
 - PRMS is Fortran and we're running it in Python!
-- If your a modeler - how much fun this is!
+- If you're a modeler - how much fun this is!
 
 ---
 
