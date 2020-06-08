@@ -177,7 +177,8 @@ Note:
 - Older Fortran code would benefit from Fortran 2003 OOP and derived type enhancements 
 - It takes effort to carefully wrap a model with a BMI
 - High potential for similar work with other USGS models (WEBMOD, PHREEQC, MODFLOW)
-   - Componentized models could be coupled (e.g., WEBMOD-PRMS, MODFLOW-PRMS)
+   - Componentized models could be coupled (WEBMOD-PRMS, MODFLOW-PRMS)
+- Other data services components are possible (WRF-Hydro outputs)
 
 
 ---
