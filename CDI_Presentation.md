@@ -109,7 +109,7 @@ In the meantime we've all become more aware of the EarthMAP initiative and I thi
 
 ---
 
-|Example coupled snow and permafrost temperature model| Visualization|
+|Example: coupled snow and permafrost temperature model| Visualization|
 |:----:|:----:|
 |![width:700](./assets/example1.png)|![](assets/example1_outputpng.png)|
 
@@ -166,7 +166,7 @@ Note: native language of each component is Fortran -->
 ---
 # Quick Demonstration:
 Note:
-- model run-time interaction
+- Model run-time interaction
 - Data services example
 - PRMS is Fortran and we're running it in Python!
 - If you're a modeler - how much fun this is!
@@ -175,7 +175,9 @@ Note:
 
 # Challenges and Takeaways
 - Older Fortran code would benefit from Fortran 2003 OOP and derived type enhancements 
-- 
+- It takes effort to carefully wrap a model with a BMI
+- High potential for similar work with other USGS models (WEBMOD, PHREEQC, MODFLOW)
+   - Componentized models could be coupled (e.g., WEBMOD-PRMS, MODFLOW-PRMS)
 
 
 ---
