@@ -10,9 +10,9 @@ paginate: true
 
 # Coupling Hydrologic Models with Data Services in an Interoperable Modeling Framework
 
-Mark Piper and Eric Hutton - CSDMS
-
 Richard McDonald, Steve Markstrom, Parker Norton - USGS
+
+Mark Piper and Eric Hutton - CSDMS
 
 ![bg vertical left:30% width:200px](./assets/CSDMS-logo-color-tagline-ver_low.png)
 ![bg width:250px](https://bmi.readthedocs.io/en/latest/_images/bmi-logo-header-text.png)
